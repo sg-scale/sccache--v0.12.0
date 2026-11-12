@@ -8,7 +8,7 @@ ctor = "0.2"
 libc = "0.2.99"
 log = "0.4"
 once_cell = "1"
-rand = "0.8"
+rand = "0.9"
 simplelog = "0.12"
 
 [lib]
